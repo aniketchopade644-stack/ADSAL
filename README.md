@@ -1,10 +1,10 @@
-# 📘 Advanced DSL Practicals
+#  Advanced DSL Practicals
 
 This repository contains advanced data structure practical programs implemented as part of the **Advanced Data Structures Laboratory (DSL)**.
 
 ---
 
-## 📂 List of Practicals
+##  List of Practicals
 
 ### 🔹 Practical 1: Expression Tree
 
